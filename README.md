@@ -2,9 +2,9 @@
 
 Entry for the make.fun bounty [The AI Agent Apology One-Liner](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447) — one short line an AI agent sends its human right after it accidentally deleted a file, pushed to main, and emailed the boss.
 
-[![make.fun](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
-
-<!-- Repo rank/reward badges are added after the GitHub repo is created (they need the owner/repo in the URL). -->
+[![make.fun · u-kiencx-the-ai-agent-apology-one-liner-cfedd447](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![rank](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/permanaraya26-hash/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/rank.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![reward](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/permanaraya26-hash/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/reward.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
 
 ## Entry
 
